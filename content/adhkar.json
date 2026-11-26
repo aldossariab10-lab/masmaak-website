@@ -1,0 +1,643 @@
+{
+ "version": 1,
+ "updated": "2026-11-26",
+ "sections": {
+  "ramadan_qiyam": {
+   "items": [
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ قَيِّمُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ وَلَكَ الْحَمْدُ، لَكَ مُلْكُ السَّمَوَاتِ وَالأَرْضِ وَمَنْ فِيهِنَّ، وَلَكَ الْحَمْدُ أَنْتَ نُورُ السَّمَوَاتِ وَالأَرْضِ، وَلَكَ الْحَمْدُ أَنْتَ الْحَقُّ، وَوَعْدُكَ الْحَقُّ، وَلِقَاؤُكَ حَقٌّ، وَقَوْلُكَ حَقٌّ، وَالْجَنَّةُ حَقٌّ، وَالنَّارُ حَقٌّ، وَالنَّبِيُّونَ حَقٌّ، وَمُحَمَّدٌ صلى الله عليه وسلم حَقٌّ، وَالسَّاعَةُ حَقٌّ، اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ، وَإِلَيْكَ حَاكَمْتُ، فَاغْفِرْ لِي مَا قَدَّمْتُ وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ وَمَا أَعْلَنْتُ، أَنْتَ الْمُقَدِّمُ وَأَنْتَ الْمُؤَخِّرُ، لاَ إِلَهَ إِلاَّ أَنْتَ",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "1120",
+      "grade": "sahih",
+      "graders": []
+     },
+     "title_ar": "دعاء الاستفتاح في قيام الليل",
+     "title_en": "Opening supplication of the night prayer"
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ رَبَّ جِبْرَائِيلَ وَمِيكَائِيلَ وَإِسْرَافِيلَ فَاطِرَ السَّمَوَاتِ وَالأَرْضِ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ أَنْتَ تَحْكُمُ بَيْنَ عِبَادِكَ فِيمَا كَانُوا فِيهِ يَخْتَلِفُونَ اهْدِنِي لِمَا اخْتُلِفَ فِيهِ مِنَ الْحَقِّ بِإِذْنِكَ إِنَّكَ تَهْدِي مَنْ تَشَاءُ إِلَى صِرَاطٍ مُسْتَقِيمٍ",
+     "repeat": 1,
+     "source": {
+      "book": "muslim",
+      "number": "770",
+      "grade": "sahih",
+      "graders": []
+     },
+     "title_ar": "دعاء الاستفتاح في قيام الليل",
+     "title_en": "Opening supplication of the night prayer"
+    }
+   ]
+  },
+  "ramadan_qunut": {
+   "items": [
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ وَعَافِنِي فِيمَنْ عَافَيْتَ وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ وَبَارِكْ لِي فِيمَا أَعْطَيْتَ وَقِنِي شَرَّ مَا قَضَيْتَ إِنَّكَ تَقْضِي وَلاَ يُقْضَى عَلَيْكَ وَإِنَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ وَلاَ يَعِزُّ مَنْ عَادَيْتَ تَبَارَكْتَ رَبَّنَا وَتَعَالَيْتَ",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "1425",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Zubair Ali Zai: Sahih"
+      ]
+     },
+     "title_ar": "دعاء القنوت",
+     "title_en": "Qunut supplication"
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ وَأَعُوذُ بِكَ مِنْكَ لاَ أُحْصِي ثَنَاءً عَلَيْكَ أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "1427",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Zubair Ali Zai: Isnaad Sahih"
+      ]
+     },
+     "title_ar": "يقوله في آخر وتره",
+     "title_en": "Said at the end of witr"
+    },
+    {
+     "kind": "hadith",
+     "text": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
+     "repeat": 3,
+     "source": {
+      "book": "abudawud",
+      "number": "1430",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Zubair Ali Zai: Sahih"
+      ]
+     },
+     "title_ar": "بعد السلام من الوتر",
+     "title_en": "After finishing witr"
+    }
+   ]
+  },
+  "ramadan_qadr": {
+   "items": [
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+     "repeat": 1,
+     "source": {
+      "book": "ibnmajah",
+      "number": "3850",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Fouad Abd al-Baqi: Sahih",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Daif"
+      ]
+     },
+     "title_ar": "دعاء ليلة القدر",
+     "title_en": "Supplication for Laylat al-Qadr"
+    },
+    {
+     "kind": "hadith",
+     "text": "ذَهَبَ الظَّمَأُ وَابْتَلَّتِ الْعُرُوقُ وَثَبَتَ الأَجْرُ إِنْ شَاءَ اللَّهُ",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "2357",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     },
+     "title_ar": "عند الإفطار",
+     "title_en": "When breaking the fast"
+    }
+   ]
+  },
+  "ramadan_khatm": {
+   "note_ar": "لم يثبت عن النبي ﷺ دعاء مخصوص بختم القرآن، فادعُ بما شئت من خيري الدنيا والآخرة. ومن أجمع الدعاء أدعية القرآن التالية.",
+   "note_en": "No specific supplication for completing the Quran is authentically reported from the Prophet ﷺ, so make any supplication you wish. Among the most comprehensive are these supplications from the Quran.",
+   "items": [
+    {
+     "kind": "quran",
+     "surah": 2,
+     "from": 201,
+     "to": 201,
+     "repeat": 1
+    },
+    {
+     "kind": "quran",
+     "surah": 3,
+     "from": 8,
+     "to": 8,
+     "repeat": 1
+    },
+    {
+     "kind": "quran",
+     "surah": 3,
+     "from": 193,
+     "to": 194,
+     "repeat": 1
+    },
+    {
+     "kind": "quran",
+     "surah": 25,
+     "from": 74,
+     "to": 74,
+     "repeat": 1
+    }
+   ]
+  },
+  "ruqyah_quran": {
+   "items": [
+    {
+     "kind": "quran",
+     "surah": 1,
+     "from": 1,
+     "to": 7,
+     "repeat": 1,
+     "title_ar": "سورة الفاتحة",
+     "title_en": "Al-Fatiha",
+     "evidence": {
+      "book": "bukhari",
+      "number": "5736",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 2,
+     "from": 255,
+     "to": 255,
+     "repeat": 1,
+     "title_ar": "آية الكرسي",
+     "title_en": "Ayat al-Kursi",
+     "evidence": {
+      "book": "bukhari",
+      "number": "2311",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 2,
+     "from": 285,
+     "to": 286,
+     "repeat": 1,
+     "title_ar": "خواتيم سورة البقرة",
+     "title_en": "Last two ayahs of Al-Baqarah",
+     "evidence": {
+      "book": "bukhari",
+      "number": "5009",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 112,
+     "from": 1,
+     "to": 4,
+     "repeat": 1,
+     "title_ar": "سورة الإخلاص",
+     "title_en": "Al-Ikhlas",
+     "evidence": {
+      "book": "bukhari",
+      "number": "5016",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 113,
+     "from": 1,
+     "to": 5,
+     "repeat": 1,
+     "title_ar": "سورة الفلق",
+     "title_en": "Al-Falaq",
+     "evidence": {
+      "book": "bukhari",
+      "number": "5016",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 114,
+     "from": 1,
+     "to": 6,
+     "repeat": 1,
+     "title_ar": "سورة الناس",
+     "title_en": "An-Nas",
+     "evidence": {
+      "book": "bukhari",
+      "number": "5016",
+      "grade": "sahih",
+      "graders": []
+     }
+    }
+   ]
+  },
+  "ruqyah_sunnah": {
+   "items": [
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ رَبَّ النَّاسِ أَذْهِبِ الْبَاسَ، اشْفِهِ وَأَنْتَ الشَّافِي، لاَ شِفَاءَ إِلاَّ شِفَاؤُكَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "5743",
+      "grade": "sahih",
+      "graders": []
+     },
+     "note_ar": "يمسح بيده اليمنى على المريض.",
+     "note_en": "Wipe over the sick person with the right hand."
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ رَبَّ النَّاسِ مُذْهِبَ الْبَاسِ اشْفِ أَنْتَ الشَّافِي لاَ شَافِيَ إِلاَّ أَنْتَ، شِفَاءً لاَ يُغَادِرُ سَقَمًا",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "5742",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "بِاسْمِ اللَّهِ أَرْقِيكَ مِنْ كُلِّ شَىْءٍ يُؤْذِيكَ مِنْ شَرِّ كُلِّ نَفْسٍ أَوْ عَيْنِ حَاسِدٍ اللَّهُ يَشْفِيكَ بِاسْمِ اللَّهِ أَرْقِيكَ",
+     "repeat": 1,
+     "source": {
+      "book": "muslim",
+      "number": "2186",
+      "grade": "sahih",
+      "graders": []
+     },
+     "title_ar": "رقية جبريل للنبي ﷺ",
+     "title_en": "Ruqyah of Jibril for the Prophet ﷺ"
+    },
+    {
+     "kind": "hadith",
+     "text": "أَعُوذُ بِاللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ وَأُحَاذِرُ",
+     "repeat": 7,
+     "source": {
+      "book": "muslim",
+      "number": "2202",
+      "grade": "sahih",
+      "graders": []
+     },
+     "note_ar": "ضع يدك على موضع الألم وقل: بسم الله (ثلاثًا)، ثم قل هذا الدعاء سبع مرات.",
+     "note_en": "Place your hand where it hurts and say \"Bismillah\" three times, then say this seven times."
+    },
+    {
+     "kind": "hadith",
+     "text": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لاَمَّةٍ",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "3371",
+      "grade": "sahih",
+      "graders": []
+     },
+     "note_ar": "كان النبي ﷺ يعوّذ بها الحسن والحسين.",
+     "note_en": "The Prophet ﷺ used it to seek protection for al-Hasan and al-Husayn."
+    },
+    {
+     "kind": "hadith",
+     "text": "أَسْأَلُ اللَّهَ الْعَظِيمَ رَبَّ الْعَرْشِ الْعَظِيمِ أَنْ يَشْفِيَكَ",
+     "repeat": 7,
+     "source": {
+      "book": "abudawud",
+      "number": "3106",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     },
+     "note_ar": "يقال عند زيارة المريض.",
+     "note_en": "Said when visiting the sick."
+    }
+   ]
+  },
+  "adhkar_morning": {
+   "items": [
+    {
+     "kind": "quran",
+     "surah": 112,
+     "from": 1,
+     "to": 4,
+     "repeat": 3,
+     "title_ar": "سورة الإخلاص",
+     "title_en": "Al-Ikhlas",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 113,
+     "from": 1,
+     "to": 5,
+     "repeat": 3,
+     "title_ar": "سورة الفلق",
+     "title_en": "Al-Falaq",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 114,
+     "from": 1,
+     "to": 6,
+     "repeat": 3,
+     "title_ar": "سورة الناس",
+     "title_en": "An-Nas",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ أَنْتَ رَبِّي، لاَ إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَىَّ وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "6306",
+      "grade": "sahih",
+      "graders": []
+     },
+     "title_ar": "سيد الاستغفار",
+     "title_en": "The master of seeking forgiveness"
+    },
+    {
+     "kind": "hadith",
+     "text": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+     "repeat": 3,
+     "source": {
+      "book": "abudawud",
+      "number": "5088",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Zubair Ali Zai: Sahih"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَاىَ وَأَهْلِي وَمَالِي اللَّهُمَّ اسْتُرْ عَوْرَتِي وَآمِنْ رَوْعَاتِي اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَىَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "5074",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Shuaib Al Arnaut: Sahih",
+       "Zubair Ali Zai: Isnaad Sahih"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "5068",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Shuaib Al Arnaut: Sahih",
+       "Zubair Ali Zai: Isnaad Sahih"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
+     "repeat": 3,
+     "source": {
+      "book": "muslim",
+      "number": "2726",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+     "repeat": 100,
+     "source": {
+      "book": "muslim",
+      "number": "2692",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ",
+     "repeat": 100,
+     "source": {
+      "book": "muslim",
+      "number": "2691",
+      "grade": "sahih",
+      "graders": []
+     },
+     "note_ar": "مائة مرة في اليوم.",
+     "note_en": "One hundred times a day."
+    }
+   ]
+  },
+  "adhkar_evening": {
+   "items": [
+    {
+     "kind": "quran",
+     "surah": 112,
+     "from": 1,
+     "to": 4,
+     "repeat": 3,
+     "title_ar": "سورة الإخلاص",
+     "title_en": "Al-Ikhlas",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 113,
+     "from": 1,
+     "to": 5,
+     "repeat": 3,
+     "title_ar": "سورة الفلق",
+     "title_en": "Al-Falaq",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "quran",
+     "surah": 114,
+     "from": 1,
+     "to": 6,
+     "repeat": 3,
+     "title_ar": "سورة الناس",
+     "title_en": "An-Nas",
+     "evidence": {
+      "book": "abudawud",
+      "number": "5082",
+      "grade": "hasan",
+      "graders": [
+       "Al-Albani: Hasan",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Hasan",
+       "Shuaib Al Arnaut: Hasan Sahih",
+       "Zubair Ali Zai: Isnaad Hasan"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ أَنْتَ رَبِّي، لاَ إِلَهَ إِلاَّ أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَىَّ وَأَبُوءُ لَكَ بِذَنْبِي، فَاغْفِرْ لِي، فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوبَ إِلاَّ أَنْتَ",
+     "repeat": 1,
+     "source": {
+      "book": "bukhari",
+      "number": "6306",
+      "grade": "sahih",
+      "graders": []
+     },
+     "title_ar": "سيد الاستغفار",
+     "title_en": "The master of seeking forgiveness"
+    },
+    {
+     "kind": "hadith",
+     "text": "بِسْمِ اللَّهِ الَّذِي لاَ يَضُرُّ مَعَ اسْمِهِ شَىْءٌ فِي الأَرْضِ وَلاَ فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+     "repeat": 3,
+     "source": {
+      "book": "abudawud",
+      "number": "5088",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Zubair Ali Zai: Sahih"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالآخِرَةِ اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ فِي دِينِي وَدُنْيَاىَ وَأَهْلِي وَمَالِي اللَّهُمَّ اسْتُرْ عَوْرَتِي وَآمِنْ رَوْعَاتِي اللَّهُمَّ احْفَظْنِي مِنْ بَيْنِ يَدَىَّ وَمِنْ خَلْفِي وَعَنْ يَمِينِي وَعَنْ شِمَالِي وَمِنْ فَوْقِي وَأَعُوذُ بِعَظَمَتِكَ أَنْ أُغْتَالَ مِنْ تَحْتِي",
+     "repeat": 1,
+     "source": {
+      "book": "abudawud",
+      "number": "5074",
+      "grade": "sahih",
+      "graders": [
+       "Al-Albani: Sahih",
+       "Muhammad Muhyi Al-Din Abdul Hamid: Sahih",
+       "Shuaib Al Arnaut: Sahih",
+       "Zubair Ali Zai: Isnaad Sahih"
+      ]
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ وَالْحَمْدُ لِلَّهِ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَىْءٍ قَدِيرٌ اللَّهُمَّ أَسْأَلُكَ خَيْرَ هَذِهِ اللَّيْلَةِ وَأَعُوذُ بِكَ مِنْ شَرِّ هَذِهِ اللَّيْلَةِ وَشَرِّ مَا بَعْدَهَا اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكَسَلِ وَسُوءِ الْكِبَرِ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابٍ فِي النَّارِ وَعَذَابٍ فِي الْقَبْرِ",
+     "repeat": 1,
+     "source": {
+      "book": "muslim",
+      "number": "2723",
+      "grade": "sahih",
+      "graders": []
+     },
+     "note_ar": "وإذا أصبح قال: أصبحنا وأصبح الملك لله.",
+     "note_en": "In the morning say: Asbahna wa asbaha al-mulku lillah."
+    },
+    {
+     "kind": "hadith",
+     "text": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+     "repeat": 1,
+     "source": {
+      "book": "muslim",
+      "number": "2709",
+      "grade": "sahih",
+      "graders": []
+     }
+    },
+    {
+     "kind": "hadith",
+     "text": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+     "repeat": 100,
+     "source": {
+      "book": "muslim",
+      "number": "2692",
+      "grade": "sahih",
+      "graders": []
+     }
+    }
+   ]
+  }
+ }
+}
